@@ -35,11 +35,11 @@ This application can be used in various educational or internal network environm
 ## Project Structure
 
 com/
-├── server/         # Server-side logic
-├── socket/         # Client-side networking and file transfer
-├── ui/             # Java Swing-based user interface
-├── utils/          # Helper utilities (optional)
-└── History.xml     # Stores message history
+- ├── server/         # Server-side logic
+- ├── socket/         # Client-side networking and file transfer
+- ├── ui/             # Java Swing-based user interface
+- ├── utils/          # Helper utilities (optional)
+- └── History.xml     # Stores message history
 
 
 ## Future Improvements
